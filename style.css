@@ -682,6 +682,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .row-35-margin-top{
 	margin-top:48px;
 }
+.btn-margin-left{
+	margin-left:-15px;
+}
+.h5-bloc-旅宿活動-margin-top{
+	margin-top:-40px;
+	margin-bottom:49px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -899,6 +906,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.p-margin-bottom{
 		margin-top:24px;
+	}
+	.h3-margin-bottom{
+		margin-top:23px;
+	}
+	.h3-星夜市集-margin-bottom{
+		margin-top:21px;
+	}
+	.btn-bloc-親子滑雪趣-margin-left{
+		margin-left:-17px;
+		margin-top:7px;
+	}
+	.h5-汽車電影院-margin-top{
+		margin-top:26px;
 	}
 	
 }
