@@ -705,6 +705,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-margin-bottom{
 	margin-bottom:31px;
+	width:350px;
+	height:350px;
+}
+.btn-商圈優惠資訊-margin-top{
+	margin-top:0px;
+	margin-left:32px;
 }
 
 /* = Colour
