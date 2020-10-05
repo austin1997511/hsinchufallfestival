@@ -907,6 +907,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.p-margin-bottom{
 		margin-top:24px;
+		margin-bottom:16px;
 	}
 	.h3-margin-bottom{
 		margin-top:23px;
@@ -919,7 +920,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		margin-top:7px;
 	}
 	.h5-汽車電影院-margin-top{
-		margin-top:26px;
+		margin-top:10px;
 	}
 	.btn-margin-top{
 		margin-top:13px;
@@ -932,6 +933,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.img-bloc-親子滑雪趣-margin-top{
 		margin-top:47px;
+	}
+	.img-margin-bottom{
+		height:281px;
+	}
+	.h6-38-margin-top{
+		margin-top:28px;
+	}
+	.h5-河岸電影院-margin-top{
+		margin-top:10px;
+	}
+	.h5--竹北水圳森林公園-margin-top{
+		margin-top:0px;
 	}
 	
 }
