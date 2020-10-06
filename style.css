@@ -374,7 +374,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-margin-bottom{
 	margin-bottom:23px;
-	font-family:Ubuntu;
+	font-family:"helvetica";
 	font-weight:900;
 	letter-spacing:1px;
 	font-size:px;
@@ -519,14 +519,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bloc-bloc-音樂會-潮青草地-margin-top{
 	margin-top:4px;
 }
-.h6-style{
-	font-size:16px;
-	margin-top:0px;
-	letter-spacing:1px;
-}
 .p-style{
 	width:100%;
-	margin-top:-2px;
+	margin-top:5px;
+	font-size:14px;
 }
 .divider-margin-top{
 	margin-top:-21px;
@@ -659,6 +655,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h6-bloc-親子滑雪趣-margin-top{
 	font-size:14px;
 	width:100%;
+	font-family:Ubuntu;
+	margin-top:1px;
 }
 .p-bloc-河岸電影院-style{
 	font-size:12px;
@@ -723,6 +721,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h5--橫山民俗文物館前廣場-margin-top{
 	margin-top:2px;
+}
+.h5-汽車電影院-margin-top{
+	margin-bottom:8px;
+}
+.h6-style{
+	font-size:14px;
+}
+.h5-河岸電影院-margin-top{
+	margin-bottom:8px;
 }
 
 /* = Colour
@@ -1031,6 +1038,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.img-bloc-11-margin-top{
 		margin-top:-64px;
+	}
+	.h5- 10-17-星期六-margin-top{
+		margin-top:8px;
+	}
+	.img-margin-top{
+		margin-bottom:22px;
 	}
 	
 }
