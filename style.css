@@ -374,7 +374,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-margin-bottom{
 	margin-bottom:23px;
-	font-family:"helvetica";
+	font-family:Ubuntu;
 	font-weight:900;
 	letter-spacing:1px;
 	font-size:px;
@@ -655,7 +655,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h6-bloc-親子滑雪趣-margin-top{
 	font-size:14px;
 	width:100%;
-	font-family:Ubuntu;
+	font-family:"helvetica";
 	margin-top:1px;
 }
 .p-bloc-河岸電影院-style{
@@ -705,7 +705,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .img-picnic-margin-top{
 	margin-top:0px;
 	height:202px;
-	width:306px;
+	width:300px;
 }
 .img-bloc-親子滑雪趣-style{
 	width:513px;
@@ -730,6 +730,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h5-河岸電影院-margin-top{
 	margin-bottom:8px;
+}
+.img-campi-style{
+	width:300px;
 }
 
 /* = Colour
@@ -1038,12 +1041,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.img-bloc-11-margin-top{
 		margin-top:-64px;
-	}
-	.h5- 10-17-星期六-margin-top{
-		margin-top:8px;
-	}
-	.img-margin-top{
-		margin-bottom:22px;
 	}
 	
 }
