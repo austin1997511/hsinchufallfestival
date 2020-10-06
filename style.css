@@ -359,7 +359,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-bottom:33px;
 }
 .h6-margin-top{
-	margin-top:25px;
+	margin-top:29px;
 	font-size:16px;
 	width:100%;
 }
@@ -703,7 +703,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-left:32px;
 }
 .img-picnic-margin-top{
-	margin-top:0px;
+	margin-top:2px;
 	height:202px;
 	width:300px;
 }
@@ -733,6 +733,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-campi-style{
 	width:300px;
+}
+.h5-秋藝竹縣｜星空電影院-margin-top{
+	margin-top:13px;
 }
 
 /* = Colour
