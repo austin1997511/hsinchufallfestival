@@ -377,8 +377,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"helvetica";
 	font-weight:100;
 	letter-spacing:1px;
-	font-size:16px;
-	margin-top:12px;
+	font-size:14px;
+	margin-top:7px;
 }
 .img-margin-top{
 	margin-top:1px;
@@ -748,6 +748,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-bloc-11-style{
 	letter-spacing:1px;
 	margin-bottom:10px;
+	font-size:14px;
 }
 .因應避免雨天影響觀影舒適度，本活動改至關西太和宮前廣場舉辦懷舊愛情電影院{
 	background-color:#FF2600;
@@ -758,9 +759,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-20-style{
 	font-size:14px;
 	background-color:transparent;
-	color:#FF2600!important;
+	color:#D82202!important;
 	text-decoration:none;
 	font-weight:bold;
+}
+.p-bloc-河岸電影院-margin-top{
+	font-size:14px;
 }
 
 /* = Colour
