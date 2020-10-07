@@ -377,7 +377,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"helvetica";
 	font-weight:100;
 	letter-spacing:1px;
-	font-size:20px;
+	font-size:16px;
+	margin-top:12px;
 }
 .img-margin-top{
 	margin-top:1px;
@@ -536,7 +537,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	border-radius:0px 0px 0px 0px;
 }
 .text-span-color{
-	color:#8e8e8e;
+	color:#ff2600;
+	background-position:left center;
 }
 .h6-bloc-音樂會-浪漫山林-style{
 	letter-spacing:3px;
@@ -654,7 +656,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h6-bloc-親子滑雪趣-margin-top{
 	font-size:14px;
-	width:100%;
+	width:88.55%;
 	font-family:"helvetica";
 	margin-top:1px;
 }
@@ -739,6 +741,26 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h5--竹北水圳森林公園-style{
 	font-family:"helvetica";
+}
+.p-17-margin-top{
+	margin-top:0px;
+}
+.p-bloc-11-style{
+	letter-spacing:1px;
+	margin-bottom:10px;
+}
+.因應避免雨天影響觀影舒適度，本活動改至關西太和宮前廣場舉辦懷舊愛情電影院{
+	background-color:#FF2600;
+}
+.p-21-style{
+	background-color:transparent;
+}
+.p-20-style{
+	font-size:14px;
+	background-color:transparent;
+	color:#FF2600!important;
+	text-decoration:none;
+	font-weight:bold;
 }
 
 /* = Colour
@@ -974,8 +996,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h6-bloc-音樂會-浪漫山林-style{
 		font-size:15px;
 		letter-spacing:3px;
-		opacity:0.3;
-		color:rgba(0,0,0,1.00)!important;
+		opacity:0.6;
+		color:#000000!important;
 	}
 	.p-margin-bottom{
 		margin-top:16px;
@@ -1057,6 +1079,20 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.divider-bloc-音樂會-炫音星夜-margin-top{
 		margin-top:-12px;
+	}
+	.p-bloc-河岸電影院-margin-bottom{
+		margin-bottom:16px;
+		margin-top:-1px;
+	}
+	.p-19-margin-bottom{
+		margin-bottom:7px;
+	}
+	.p-24-margin-bottom{
+		margin-bottom:7px;
+	}
+	.p-bloc-河岸電影院-margin-top{
+		margin-top:-12px;
+		font-size:14px;
 	}
 	
 }
