@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	    .竹縣2.icloud
+	    竹縣2
         Built with Blocs
 -----------------------------------------------------------------------------------*/
  
@@ -45,9 +45,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 .bloc-xxl{
 	padding:200px 50px;
-}
-.bloc-xl{
-	padding:150px 50px;
 }
 .bloc-lg{
 	padding:100px 50px;
@@ -163,9 +160,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 .hero .hero-nav{
 	padding-left:inherit;
 	padding-right:inherit;
-}
-.navbar-dark .nav .dropdown-menu .nav-link{
-	color: rgb(64, 64, 64);
 }
 /* = Sticky Nav
 -------------------------------------------------------------- */
@@ -307,13 +301,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h5-style{
 	margin-bottom:41px;
 	margin-top:0px;
-	letter-spacing:3px;
+}
+.p-margin-top{
+	margin-top:11px;
 }
 .bloc-0-bloc-1-margin-top{
 	margin-top:55px;
-}
-.h5-margin-top{
-	margin-top:0px;
 }
 .h5-浪漫山林音樂會-style{
 	font-family:Lato;
@@ -332,6 +325,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .team-card{
 	min-height:350px;
+}
+.h3-margin-bottom{
+	margin-bottom:9px;
 }
 .h5-青鳥合唱團-style{
 	width:100%;
@@ -359,9 +355,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-bottom:33px;
 }
 .h6-margin-top{
-	margin-top:29px;
-	font-size:16px;
-	width:100%;
+	margin-top:25px;
 }
 .row-bloc-12-margin-top{
 	margin-top:50px;
@@ -372,32 +366,47 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .row-28-margin-top{
 	margin-top:50px;
 }
+.h2-style{
+	font-family:Lato;
+	font-weight:900;
+	margin-top:0px;
+}
+.p-margin-bottom{
+	margin-bottom:13px;
+	font-family:Ubuntu;
+	font-weight:900;
+}
 .img-margin-top{
-	margin-top:1px;
+	margin-top:199px;
 }
 .h4-style{
 	font-family:Lato;
 	font-weight:900;
 }
 .row-bloc-音樂會-潮青草地-margin-top{
-	margin-top:120px;
+	margin-top:-1px;
 }
 .h5-margin-bottom{
 	margin-bottom:13px;
-	letter-spacing:1px;
 }
 .row-bloc--音樂會-炫音星夜-margin-top{
-	margin-top:0px;
+	margin-top:2px;
+}
+.h3-style{
+	font-family:Lato;
+	font-weight:900;
+}
+.h5-bloc--音樂會-炫音星夜-margin-bottom{
+	margin-bottom:13px;
 }
 .img-bloc--音樂會-炫音星夜-margin-top{
-	margin-top:1px;
-	width:478px;
+	margin-top:220px;
 }
 .img-bloc-音樂會-潮青草地-margin-top{
-	margin-top:0px;
+	margin-top:216px;
 }
 .row-bloc-音樂會-浪漫山林-margin-top{
-	margin-top:-1px;
+	margin-top:-144px;
 }
 .container-div-margin-top{
 	margin-top:75px;
@@ -412,52 +421,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:200px;
 }
 .bloc-26443-margin-top{
-	margin-top:-2px;
+	margin-top:26px;
 }
 .row-bloc-1-margin-top{
 	margin-top:10px;
 	margin-bottom:36px;
 }
-.link-style{
-	font-weight:bold;
-}
-.btn-點我看更多-style{
-	font-weight:bold;
-}
-.btn-6-style{
-	font-weight:bold;
-}
-.btn-7-style{
-	font-weight:bold;
-}
-.btn-1-style{
-	font-weight:bold;
-}
-.btn-2-style{
-	font-weight:bold;
-}
-.btn-3-style{
-	font-weight:bold;
-}
-.h4-margin-bottom{
-	margin-bottom:37px;
-}
-.link-主題市集1-style{
-	font-weight:bold;
-}
-.h4-周邊資訊-margin-bottom{
-	margin-bottom:61px;
-}
-.link-主題市集-style{
-	font-weight:bold;
-}
-.link-期間活動-style{
-	font-weight:bold;
-}
-.link-夜間活動-style{
+.link-星夜音樂會-style{
 	font-weight:bold;
 }
 .link-音樂會-style{
+	font-weight:bold;
+}
+.link-夜間活動-style{
 	font-weight:bold;
 }
 .link-周邊資訊-style{
@@ -465,298 +441,141 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .link-交通資訊-style{
 	font-weight:bold;
-	margin-right:21px;
 }
-.link-秋月峨眉｜秘境營火夜-style{
-	font-weight:bold;
+.h6-style{
+	letter-spacing:1px;
 }
-.link-秋藝關西｜河岸電影院-style{
-	font-weight:bold;
+.text-span-color{
+	color:#ffffff;
 }
-.link-秋樂新豐｜親子滑雪趣-style{
-	font-weight:bold;
+.img-style{
+	width:20px;
+	height:20px;
 }
-.link-炫音星夜音樂會-style{
+.h4-margin-top{
+	margin-top:52px;
+}
+.text-span-bloc-主題市集-color{
+	color:#ffffff;
+}
+.row-bloc-主題市集-margin-top{
+	margin-top:30px;
+}
+.row-margin-bottom{
+	margin-bottom:29px;
+	margin-top:15px;
+}
+.h6-bloc-主題市集-style{
+	line-height:22px;
+}
+.h3-margin-top{
+	margin-top:0px;
+}
+.divider-margin-top{
+	margin-top:-21px;
+	margin-bottom:-9px;
+}
+.divider-bloc-星夜野餐日-margin-top{
+	margin-top:-21px;
+	margin-bottom:-9px;
+}
+.h6-bloc-河岸電影院-style{
+	width:100%;
+}
+.text-span-bloc-河岸電影院-color{
+	color:#FF2600!important;
+}
+.divider-bloc-河岸電影院-margin-top{
+	margin-top:-21px;
+}
+.divider-0-margin-top{
+	margin-top:-21px;
+}
+.h6-秋樂關西．萬聖遊樂園-margin-top{
+	margin-top:49px;
+}
+.row-bloc-周邊資訊-margin-top{
+	margin-top:14px;
+}
+.row-35-margin-top{
+	margin-top:72px;
+}
+.link-style{
 	font-weight:bold;
 }
 .link-潮青草地音樂會-style{
 	font-weight:bold;
 }
-.link-主題市集3-style{
+.link-炫音星空音樂會-style{
 	font-weight:bold;
-}
-.link-主題市集2-style{
-	font-weight:bold;
-}
-.bloc-bloc-期間活動-margin-top{
-	margin-top:-32px;
-}
-.p-bloc-期間活動-margin-top{
-	margin-top:33px;
-}
-.p-3-margin-top{
-	margin-top:33px;
-}
-.link-0-style{
-	font-weight:bold;
-}
-.link-0-音樂會-style{
-	font-weight:bold;
-}
-.link-0-夜間活動-style{
-	font-weight:bold;
-}
-.row-bloc-周邊資訊-margin-bottom{
-	margin-bottom:53px;
-}
-.bloc-bloc-音樂會-潮青草地-margin-top{
-	margin-top:4px;
-}
-.p-style{
-	width:100%;
-	margin-top:5px;
-	font-size:14px;
-}
-.divider-margin-top{
-	margin-top:-21px;
-}
-.h2-margin-top{
-	margin-bottom:13px;
-}
-.img-style{
-	width:50px;
-	height:50px;
-	border-radius:0px 0px 0px 0px;
-}
-.text-span-color{
-	color:#ff2600;
-	background-position:left center;
-}
-.h6-bloc-音樂會-浪漫山林-style{
-	letter-spacing:3px;
-}
-.h5-bloc-音樂會-炫音星夜-style{
-	letter-spacing:5px;
-}
-.h3-margin-top{
-	margin-top:120px;
-}
-.h3-炫音星夜演唱會-margin-top{
-	margin-top:120px;
-}
-.h6-bloc-星夜野餐日-style{
-	font-size:16px;
-	letter-spacing:1px;
-}
-.divider-bloc-星夜野餐日-margin-top{
-	margin-top:-21px;
-}
-.h6-bloc-河岸電影院-style{
-	letter-spacing:1px;
-}
-.h6-bloc-秘境營火夜-style{
-	letter-spacing:1px;
-}
-.divider-bloc-秘境營火夜-margin-top{
-	margin-top:-21px;
-}
-.divider-bloc-河岸電影院-margin-top{
-	margin-top:-21px;
-}
-.h5-秋月峨眉｜秘境營火夜-margin-top{
-	margin-top:-1px;
-}
-.icon-margin-top{
-	margin-top:4px;
-}
-.p-bloc-交通-音樂會-style{
-	line-height:20px;
-	margin-top:10px;
-	width:100%;
-}
-.p-margin-top{
-	margin-top:10px;
 }
 .img-自駕-icon-100-style{
 	width:50px;
 	height:50px;
 }
-.row-bloc-交通-音樂會-margin-top{
-	margin-top:22px;
+.img-停車ic-style{
+	width:50px;
+	height:50px;
 }
-.bloc-bloc-交通-音樂會-margin-top{
-	margin-top:-104px;
-}
-.img-bloc-navbar-style{
-	width:20px;
-	height:20px;
-	margin-top:3px;
-}
-.img-3-style{
-	height:27px;
-	width:27px;
-}
-.img-icons8-line-1-style{
-	width:31px;
-}
-.bloc-margin-top{
-	margin-top:6px;
-}
-.bloc-bloc-navbar-margin-top{
-	margin-top:5px;
-}
-.img-資產-1-2x-100-margin-top{
-	margin-top:28px;
-}
-.h6-bloc-交通-音樂會-margin-top{
-	margin-top:22px;
-}
-.h6-37-margin-top{
-	margin-top:15px;
-}
-.h6-39-margin-top{
-	margin-top:17px;
-}
-.p-bloc-旅宿活動-margin-top{
-	margin-top:-9px;
-	font-size:15px;
-}
-.h6-bloc-旅宿活動-margin-top{
-	margin-top:52px;
-}
-.p-28-margin-top{
-	margin-top:-9px;
-	font-size:15px;
-}
-.h6-margin-bottom{
-	margin-bottom:12px;
-}
-.h3-margin-bottom{
-	margin-bottom:11px;
-}
-.h3-星夜市集-margin-bottom{
-	margin-bottom:11px;
-}
-.h6-bloc-12-margin-bottom{
-	margin-bottom:13px;
-}
-.bloc-0-bloc-夜間活動-margin-top{
-	margin-top:0px;
-}
-.bloc-1257-margin-top{
-	margin-top:0px;
-}
-.h6-bloc-親子滑雪趣-margin-top{
-	font-size:14px;
-	width:88.55%;
-	font-family:"helvetica";
-	margin-top:1px;
-}
-.p-bloc-河岸電影院-style{
-	font-size:12px;
-}
-.row-35-margin-top{
+.h4-星夜音樂會｜交通資訊-margin-top{
 	margin-top:48px;
 }
-.btn-margin-left{
-	margin-left:-15px;
+.p-bloc-17-margin-top{
+	margin-top:10px;
 }
-.h5-bloc-旅宿活動-margin-top{
-	margin-top:-40px;
-	margin-bottom:49px;
+.p-38-margin-top{
+	margin-top:10px;
 }
-.bloc-bloc-夜間活動-margin-top{
-	margin-top:15px;
+.h4-bloc-17-margin-top{
+	margin-top:80px;
 }
-.row-bloc-親子滑雪趣-margin-top{
-	margin-top:39px;
-}
-.h5-秋藝關西｜河岸電影院-margin-top{
-	margin-top:0px;
-}
-.h5-秋戀合興｜星夜野餐日-margin-top{
-	margin-top:0px;
-}
-.h5-秋樂新豐｜親子滑雪趣-margin-top{
-	margin-top:39px;
-}
-.h5-秋樂關西｜萬聖遊樂園-margin-top{
-	margin-top:38px;
-}
-.img-滑雪去去-margin-top{
-	margin-top:0px;
-	height:204px;
-}
-.img-margin-bottom{
-	margin-bottom:31px;
-	width:400px;
-	height:400px;
-}
-.btn-商圈優惠資訊-margin-top{
-	margin-top:0px;
-	margin-left:32px;
-}
-.img-picnic-margin-top{
-	margin-top:2px;
-	height:202px;
-	width:300px;
-}
-.img-bloc-親子滑雪趣-style{
-	width:513px;
-}
-.row-bloc-11-margin-top{
-	margin-top:48px;
-}
-.row-23-margin-top{
-	margin-top:30px;
-}
-.img-p12647-style{
-	width:400px;
-}
-.h5--橫山民俗文物館前廣場-margin-top{
-	margin-top:2px;
-}
-.h5-汽車電影院-margin-top{
-	margin-bottom:8px;
-}
-.h6-style{
-	font-size:14px;
-}
-.h5-河岸電影院-margin-top{
-	margin-bottom:8px;
-}
-.img-campi-style{
-	width:300px;
-}
-.h5-秋藝竹縣｜星空電影院-margin-top{
-	margin-top:13px;
-}
-.h5--竹北水圳森林公園-style{
-	font-family:"helvetica";
-}
-.p-17-margin-top{
-	margin-top:0px;
-}
-.p-bloc-11-style{
-	letter-spacing:1px;
-	margin-bottom:10px;
-	font-size:14px;
-}
-.因應避免雨天影響觀影舒適度，本活動改至關西太和宮前廣場舉辦懷舊愛情電影院{
-	background-color:#FF2600;
-}
-.p-21-style{
-	background-color:transparent;
-}
-.p-20-style{
-	font-size:14px;
-	background-color:transparent;
-	color:#D82202!important;
-	text-decoration:none;
+.link-星夜森林-style{
 	font-weight:bold;
 }
-.p-bloc-河岸電影院-margin-top{
-	font-size:14px;
+.link-0-style{
+	font-weight:bold;
+}
+.link-0-炫音星空音樂會-style{
+	font-weight:bold;
+}
+.link-0-星夜森林-style{
+	font-weight:bold;
+}
+.link-秋樂新豐｜親子滑雪趣-style{
+	font-weight:bold;
+}
+.link-秋戀合興｜星夜野餐日-style{
+	font-weight:bold;
+}
+.link-秋藝竹縣｜星空電影院-style{
+	font-weight:bold;
+}
+.link-秋藝竹縣｜汽車電影院-style{
+	font-weight:bold;
+}
+.link-秋月峨眉｜秘境營火夜-style{
+	font-weight:bold;
+}
+.link-秋藝關西｜萬聖遊樂園-style{
+	font-weight:bold;
+}
+.link-0-秋藝竹縣｜汽車電影院-style{
+	font-weight:bold;
+}
+.link-0-秋月峨眉｜秘境營火夜-style{
+	font-weight:bold;
+}
+.link-0-秋藝關西｜萬聖遊樂園-style{
+	font-weight:bold;
+}
+.h5-margin-top{
+	margin-top:47px;
+}
+.h5-潮青草地音樂會-margin-top{
+	margin-top:42px;
+}
+.h5-bloc-6-margin-top{
+	margin-top:42px;
 }
 
 /* = Colour
@@ -764,33 +583,30 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Background colour styles */
 
-.bgc-lapis-lazuli{
-	background-color:rgba(30,99,134,0.88);
+.bgc-teal-blue{
+	background-color:#3A7594;
 }
 
 /* Text colour styles */
 
-.tc-lapis-lazuli{
-	color:rgba(30,99,134,0.88)!important;
-}
-.tc-gray-htmlcss-gray{
-	color:#7B7B7B!important;
+.tc-teal-blue{
+	color:#3A7594!important;
 }
 .tc-white{
 	color:#FFFFFF!important;
 }
-.tc-outer-space{
-	color:rgba(66,66,66,0.74)!important;
+.tc-gray-htmlcss-gray{
+	color:#7B7B7B!important;
 }
 
 /* Button colour styles */
 
-.btn-lapis-lazuli{
-	background:rgba(30,99,134,0.88);
+.btn-teal-blue{
+	background:#3A7594;
 	color:#FFFFFF!important;
 }
-.btn-lapis-lazuli:hover{
-	background:#184f6b!important;
+.btn-teal-blue:hover{
+	background:#2e5e76!important;
 	color:#FFFFFF!important;
 }
 
@@ -802,30 +618,21 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .ltc-white:hover{
 	color:#cccccc!important;
 }
-.ltc-white-2{
-	color:#FFFFFF!important;
-}
-.ltc-white-2:hover{
-	color:#cccccc!important;
-}
 
 /* Icon colour styles */
 
-.icon-lapis-lazuli{
-	color:rgba(30,99,134,0.88)!important;
-	border-color:rgba(30,99,134,0.88)!important;
+.icon-teal-blue{
+	color:#3A7594!important;
+	border-color:#3A7594!important;
 }
 
 /* Bloc image backgrounds */
 
-.bg-資產-202-2x-100{
-	background-image:url("img/資產%202@2x-100.jpg");
-}
-.bg-0911-20秋遊星夜季-邀請卡-W15-5xH10-5cm-ol-工作區域-202{
-	background-image:url("img/0911%20秋遊星夜季_邀請卡_W15.5xH10.5cm_ol_工作區域%202.jpg");
-}
 .bg-0911-20秋遊星夜季-邀請卡-W15-5xH10-5cm-ol-工作區域-202{
 	background-image:url("img/0911%20秋遊星夜季_邀請卡_W15.5xH10.5cm_ol_工作區域%202.png");
+}
+.bg-資產-202-2x-100{
+	background-image:url("img/資產%202@2x-100.jpg");
 }
 
 
@@ -896,39 +703,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h5-style{
 		font-family:Montserrat;
 	}
-	.bloc-bloc-夜間活動-margin-top{
-		margin-top:39px;
-	}
-	.h2-margin-top{
-		margin-top:30px;
-	}
-	.h2-秋戀合興｜星夜野餐日-margin-top{
-		margin-top:31px;
-	}
-	.h2-秋藝關西｜河岸電影院-margin-top{
-		margin-top:29px;
-	}
-	.h2-秋月峨眉｜秘境營火夜-margin-top{
-		margin-top:27px;
-	}
-	.h3-margin-bottom{
-		margin-top:30px;
-	}
-	.h3-星夜市集-margin-bottom{
-		margin-top:32px;
-	}
-	.btn-margin-top{
-		margin-top:0px;
-	}
-	.h6-秋樂新豐．親子滑雪趣-margin-top{
-		margin-top:42px;
-	}
-	.h6-bloc-空拍攝影比賽-margin-top{
-		margin-top:24px;
-	}
-	.h4-margin-bottom{
-		margin-bottom:0px;
-	}
 	
 }
 
@@ -946,6 +720,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.bloc-bloc-navbar-margin-top{
 		margin-top:14px;
 	}
+	.h2-style{
+		margin-top:23px;
+	}
 	.card-margin-top{
 		margin-top:28px;
 	}
@@ -957,6 +734,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.bloc-bloc-潮青卡司-margin-top{
 		margin-top:14px;
+	}
+	.h3-style{
+		margin-top:34px;
 	}
 	.bloc-bloc--炫音卡司-margin-top{
 		margin-top:16px;
@@ -986,107 +766,121 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h2-秋月峨眉｜秘境營火夜-margin-top{
 		margin-top:23px;
 	}
-	.h4-margin-top{
-		margin-top:25px;
-	}
-	.h4-協辦單位-margin-top{
-		margin-top:32px;
-	}
-	.h6-bloc-音樂會-浪漫山林-style{
-		font-size:15px;
-		letter-spacing:3px;
-		opacity:0.6;
-		color:#000000!important;
-	}
-	.h3-margin-bottom{
-		margin-top:33px;
-	}
-	.h3-星夜市集-margin-bottom{
-		margin-top:21px;
-	}
-	.btn-bloc-親子滑雪趣-margin-left{
-		margin-left:-17px;
-		margin-top:7px;
-	}
-	.h5-汽車電影院-margin-top{
-		margin-top:10px;
-	}
-	.btn-margin-top{
-		margin-top:13px;
-	}
-	.h6-秋樂新豐．親子滑雪趣-margin-top{
-		margin-top:41px;
-	}
-	.h6-margin-top{
-		margin-top:16px;
-	}
-	.img-bloc-親子滑雪趣-margin-top{
-		margin-top:47px;
-	}
-	.img-margin-bottom{
-		height:300px;
-		width:300px;
-	}
-	.h6-38-margin-top{
-		margin-top:28px;
-	}
-	.h5-河岸電影院-margin-top{
-		margin-top:10px;
-		width:100%;
-	}
-	.bloc-bloc-河岸電影院-margin-top{
-		margin-top:24px;
+	.bloc-margin-top{
+		margin-top:19px;
 	}
 	.h4-星空下的皮皮獅-margin-top{
-		margin-top:30px;
+		margin-top:19px;
 	}
-	.bloc-bloc-夜間活動-margin-top{
-		margin-top:-20px;
+	.h3-星夜市集-margin-top{
+		margin-top:23px;
 	}
-	.p-bloc-夜間活動-margin-top{
+	.p-style{
+		font-size:14px;
+	}
+	.p-bloc-星夜野餐日-style{
+		font-size:14px;
+	}
+	.p-18-style{
+		font-size:14px;
+	}
+	.p-19-style{
+		font-size:14px;
+	}
+	.p-20-style{
+		font-size:14px;
+	}
+	.h6-bloc-河岸電影院-style{
+		font-size:14px;
+	}
+	.p-bloc-河岸電影院-style{
+		font-size:14px;
+	}
+	.p-28-style{
+		font-size:14px;
+	}
+	.h6-50-style{
+		font-size:14px;
+	}
+	.p-29-style{
+		font-size:14px;
+	}
+	.p-31-style{
+		font-size:14px;
+	}
+	.p-30-style{
+		font-size:14px;
+	}
+	.h6-53-style{
+		font-size:14px;
+	}
+	.p-32-style{
+		font-size:14px;
+	}
+	.h6-bloc-13-style{
+		font-size:14px;
+	}
+	.p-bloc-13-style{
+		font-size:14px;
+	}
+	.p-42-style{
+		font-size:14px;
+	}
+	.h6-秋樂新豐．親子滑雪趣-margin-top{
 		margin-top:25px;
-		margin-bottom:-8px;
 	}
-	.p-bloc-夜間活動-margin-bottom{
-		margin-bottom:10px;
+	.h6-秋樂關西．萬聖遊樂園-margin-top{
+		margin-top:47px;
 	}
-	.divider-margin-top{
-		margin-top:-31px;
-		margin-bottom:-9px;
+	.text-span-bloc-空拍比賽-color{
+		color:#ffffff;
 	}
-	.h4-銀河星鑽-margin-top{
-		margin-top:35px;
-	}
-	.h6-bloc-星夜森林-margin-bottom{
-		margin-bottom:-2px;
-	}
-	.img-bloc-11-margin-top{
-		margin-top:-64px;
-	}
-	.h6-bloc-親子滑雪趣-margin-top{
+	.bloc-bloc-交通資訊-margin-top{
 		margin-top:22px;
 	}
-	.divider-bloc-音樂會-浪漫山林-margin-top{
-		margin-top:-12px;
+	.bloc-0-bloc-交通資訊-margin-top{
+		margin-top:18px;
 	}
-	.divider-bloc-音樂會-潮青草地-margin-top{
-		margin-top:-12px;
+	.bloc-26207-margin-top{
+		margin-top:11px;
 	}
-	.divider-bloc-音樂會-炫音星夜-margin-top{
-		margin-top:-12px;
+	.bloc-bloc-18-margin-top{
+		margin-top:10px;
 	}
-	.p-bloc-河岸電影院-margin-bottom{
-		margin-bottom:16px;
-		margin-top:-1px;
+	.bloc-bloc-19-margin-top{
+		margin-top:17px;
 	}
-	.p-19-margin-bottom{
-		margin-bottom:7px;
+	.bloc-0-bloc-19-margin-top{
+		margin-top:5px;
 	}
-	.p-24-margin-bottom{
-		margin-bottom:7px;
+	.bloc-44470-margin-top{
+		margin-top:7px;
 	}
-	.p-bloc-河岸電影院-margin-top{
-		margin-top:-12px;
+	.bloc-35108-margin-top{
+		margin-top:12px;
+	}
+	.p-38-style{
+		font-size:14px;
+	}
+	.p-39-style{
+		font-size:14px;
+	}
+	.p-40-style{
+		font-size:14px;
+	}
+	.p-41-style{
+		font-size:14px;
+	}
+	.p-49002-style{
+		font-size:14px;
+	}
+	.p-51-style{
+		font-size:14px;
+	}
+	.p-52-style{
+		font-size:14px;
+	}
+	.p-53-style{
 		font-size:14px;
 	}
 	
