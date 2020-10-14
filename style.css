@@ -580,9 +580,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h6-bloc-14-style{
 	color:#3A7494!important;
 }
-.btn-style{
-	font-weight:bold;
-}
 .btn-預約制-style{
 	font-weight:bold;
 }
@@ -616,14 +613,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .btn-teal-blue:hover{
 	background:#2e5e76!important;
-	color:#FFFFFF!important;
-}
-.btn-ferrari-red{
-	background:#FF2600;
-	color:#FFFFFF!important;
-}
-.btn-ferrari-red:hover{
-	background:#cc1e00!important;
 	color:#FFFFFF!important;
 }
 
