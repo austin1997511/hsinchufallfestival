@@ -479,8 +479,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-top:-21px;
 	margin-bottom:-9px;
 }
-.h6-bloc-河岸電影院-style{
+.h6-bloc-河岸電影院附註-style{
 	width:100%;
+	color:#FF2600!important;
+	font-size:14px;
 }
 .text-span-bloc-河岸電影院-color{
 	color:#FF2600!important;
@@ -796,7 +798,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.p-20-style{
 		font-size:14px;
 	}
-	.h6-bloc-河岸電影院-style{
+	.h6-bloc-河岸電影院附註-style{
 		font-size:14px;
 	}
 	.p-bloc-河岸電影院-style{
